@@ -1,3 +1,15 @@
-body {
-    background-color: rgba(255, 255, 0, 0.304);
+.bg-black {
+    background-color: black;
+}
+
+.bg-yellow {
+    background-color: yellow;
+}
+
+.name-bg-aqua {
+    background-color: aqua;
+    width: 210px;
+    text-align: center;
+    padding: 18px;
+
 }
