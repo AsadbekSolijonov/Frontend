@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.first_block {
+    background-color: silver;
+    color: white;
+    font-size: 42px;
+    height: 70px;
+    padding:10px;
+    margin: 10px;
+}
