@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.first_block {
+    background-color: silver;
+    color: white;
+    font-size: 42px;
+    height: 70px;
+    padding:10px;
+    margin: 10px;
+}
+
+.second_block {
+    background-color: purple;
+    color: white;
+    height: 70px;
+    margin: 10px;
+    font-size: 42px;
+    padding:10px;
+    display: inline-block;
+    width: 817px;
+}
+
+.third_block {
+    
+}
