@@ -8,21 +8,11 @@
     margin: 20px;
 }
 
-.col1 {
+.col{
     height: 840px;
     width: 350px;
     background-color: silver;
     font-size: 45px;
-    padding: 20px;
     display: inline-block;
+    margin-left: 45px;
 }
-
-.col2 {
-    min-height: 840px;
-    width: 350px;
-    background-color: silver;
-    font-size: 45px;
-    padding: 20px;
-    display: inline-block;
-}
-
