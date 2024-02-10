@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 20px;
+}
+
+.col1 {
+    height: 840px;
+    width: 350px;
+    background-color: silver;
+    font-size: 45px;
+    padding: 20px;
+    display: inline-block;
+}
+
+.col2 {
+    min-height: 840px;
+    width: 350px;
+    background-color: silver;
+    font-size: 45px;
+    padding: 20px;
+    display: inline-block;
+}
+
