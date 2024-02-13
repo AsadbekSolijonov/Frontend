@@ -6,13 +6,45 @@
 
 .container {
     margin: 20px;
+    display: flex;
 }
 
 .col{
+    display: flex;
+    height: 840px;
+    width: 350px;
+    font-size: 45px;
+    display: inline-block;
+    margin-left: 45px;
+}
+
+.col1{
+    display: flex;
     height: 840px;
     width: 350px;
     background-color: silver;
     font-size: 45px;
     display: inline-block;
     margin-left: 45px;
+}
+
+.col2-row1 {
+    display: flex;
+    height: 500px;
+    width: 350px;
+    background-color: silver;
+}
+
+.col2-row2 {
+    height: 335px;
+    width: 350px;
+    margin-top: 5px;
+    background-color: green;
+}
+
+.col3-rows {
+    background-color: green;
+    height: 275px;
+    width: 350px;
+    margin-top: 5px;
 }
