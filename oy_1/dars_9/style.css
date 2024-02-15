@@ -14,10 +14,11 @@
     margin: 0 auto;
     margin-top: 100px;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;  /* new */
     align-items: center;
     border: 5px solid white;
     box-shadow: 0 0 50px hsl(202, 93%, 46%);
+    padding: 10px 30px;  /* new */
 
 }
 
@@ -30,7 +31,10 @@
     border: 5px solid white;
     box-shadow: 0 0 125px hsl(175, 93%, 46%);
 }
-
+.color-layer {
+    box-shadow: 0 0  50px red;
+    border-radius: 50%;
+}
 
 .name {
     font-size: 37px;
