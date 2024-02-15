@@ -19,6 +19,7 @@
     border: 5px solid white;
     box-shadow: 0 0 50px hsl(202, 93%, 46%);
     padding: 10px 30px;  /* new */
+    transition: all 0.3s ease-in-out;
 
 }
 
@@ -39,4 +40,12 @@
 .name {
     font-size: 37px;
     font-weight: bold;
+}
+
+.fa-solid {
+    font-size: 35px;
+}
+
+.container:hover {
+    background-color: rgb(193, 32, 32);
 }
