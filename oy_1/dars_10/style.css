@@ -23,7 +23,7 @@ body {
     justify-content: start;
     align-items: center;
     padding: 50px;
-    gap: 20px;
+    gap: 50px;
 }
 /* wrap-image */
 .wrap-image {
@@ -53,7 +53,14 @@ img:hover {
 }
 
 .text-container {
-    background-color: rgba(255, 255, 255, 0.131);
+    /* background-color: rgba(255, 255, 255, 0.131); */
     width: 800px;
     height: 600px;
+}
+
+/* text-title */
+.text-title{
+    font-size: 60px;
+    font-weight: bold;
+    color: white;
 }
