@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: orange;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+/* container */
+.container {
+    width: 1500px;
+    height: 700px;
+    background: black;
+    border-radius: 50px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.689);
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding: 50px;
+}
+/* wrap-image */
+.wrap-image {
+    background: white;
+    border-radius: 50px;
+
+}
+/* img */
+img {
+    width: 600px;
+    rotate: 25deg;
+}
