@@ -23,15 +23,37 @@ body {
     justify-content: start;
     align-items: center;
     padding: 50px;
+    gap: 20px;
 }
 /* wrap-image */
 .wrap-image {
     background: white;
     border-radius: 50px;
+    width: 570px;
+    transition: all .5s ease-in-out;
 
 }
+.wrap-image:hover {
+    background: rgb(224, 156, 8);
+    border-radius: 50px;
+    width: 570px;
+
+}
+
 /* img */
 img {
     width: 600px;
+    /* rotate: 25deg; */
+    transition: all 0.5s ease-in-out;
+}
+
+img:hover {
+    width: 600px;
     rotate: 25deg;
+}
+
+.text-container {
+    background-color: rgba(255, 255, 255, 0.131);
+    width: 800px;
+    height: 600px;
 }
