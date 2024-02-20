@@ -1,0 +1,1 @@
+Box-Shadow Generator: https://active-vision.ru/icon/gradient/
