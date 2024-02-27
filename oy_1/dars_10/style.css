@@ -64,3 +64,44 @@ img:hover {
     font-weight: bold;
     color: white;
 }
+
+/* icons */
+.icons {
+    display: flex;
+    gap:15px;
+    margin: 25px 0;
+}
+
+/* main */
+.main {
+    font-size: 47px;
+    color: white;
+    letter-spacing: 2px;
+}
+
+/* price */
+.price{
+    font-size: 47px;
+    font-weight: bold;
+    color: white;
+}
+
+/* pay button */
+button {
+    padding: 20px;
+    font-size: 47px;
+    padding: 10px 60px;
+    border-radius: 10px;
+    background: orange;
+    border: none;
+
+}
+
+/* button layer */
+.button-layer {
+    /* width: 600px; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 40px;
+}
